@@ -1,7 +1,7 @@
 <div>
   <a href="https://github.com/{yourRepoName}">
-  <img height="230em" src="https://github-readme-stats.vercel.app/api?username={yourRepoName}&show_icons=true&theme=midnight-purple&include_all_comits=true&count_private=true"/>
-  <img height="275em" src="https://github-readme-stats.vercel.app/api/top-langs/?username={yourRepoName}&layout=compact&langs_count=16&theme=midnight-purple"/>
+  <img height="230em" src="https://github-readme-stats.vercel.app/api?username=stcritcal&show_icons=true&theme=midnight-purple&include_all_comits=true&count_private=true"/>
+  <img height="275em" src="https://github-readme-stats.vercel.app/api/top-langs/?username={stcritcal}&layout=compact&langs_count=16&theme=midnight-purple"/>
 </div>
 **git Stats - https://github.com/anuraghazra/github-readme-stats
 
