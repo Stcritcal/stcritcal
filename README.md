@@ -34,3 +34,5 @@
 <div style="display: inline_block">
   <img align="center" alt="" height="30" width="40" src="{url}"/>
 </div>
+  
+![Snake animation](https://github.com/%7BYourRepoName%7D/stcritcal/blob/output/github-contribution-grid-snake.svg)
